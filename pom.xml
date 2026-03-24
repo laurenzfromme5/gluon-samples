@@ -11,7 +11,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.release>17</maven.compiler.release>
+        <maven.compiler.release>21</maven.compiler.release>
         <javafx.version>24-ea+5</javafx.version>
         <charm.version>6.2.3</charm.version>
         <charm.cloudlink.version>6.0.7</charm.cloudlink.version>
@@ -19,7 +19,7 @@
         <attach.version>4.0.21</attach.version>
         <connect.version>2.0.1</connect.version>
         <javafx.maven.plugin.version>0.0.8</javafx.maven.plugin.version>
-        <gluonfx.maven.plugin.version>1.0.28</gluonfx.maven.plugin.version>
+        <gluonfx.maven.plugin.version>1.0.27</gluonfx.maven.plugin.version>
         <gluonfx.target>host</gluonfx.target>
     </properties>
 
